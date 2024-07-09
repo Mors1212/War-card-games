@@ -10,7 +10,6 @@
   #Samuel Antonio Garcia Fajardo - 
 
 #Presentation Link - https://www.canva.com/design/DAGI3KXDNQA/cVN798OrGE4HqRuGCQCtOQ/edit?utm_content=DAGI3KXDNQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 #Game Logic -
 
 
